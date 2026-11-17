@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Web Archive
+
+**Embryo Web Archive** is Embryo-Zero's fork of [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <div align="center" style="text-align: center; width: 100%">
 <img src="https://archivebox.io/icon.png" height="90px"/>
 <h1>ArchiveBox<br/><sub>Open-source self-hosted web archiving.</sub></h1>
